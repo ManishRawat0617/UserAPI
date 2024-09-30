@@ -1,0 +1,2 @@
+{"name":"manish","email":"manish@gmail.com","password":"$2a$10$1tBExoTgT95pRpVmvniYV.hCtG8kFRqLNeQHVbhu2OMwI8zANdOie","role":"admin","2faEnable":false,"2faSecret":"ENNWCRJCNY2GKHTI","_id":"XCYKVh2mqSco06k0"}
+{"name":"Lavish","email":"lavish@gmail.com","password":"$2a$10$1dyQC54OZ.msYXx.9hb3veI6quW2nc7FScK3nGEQzPlAZkPeon17S","role":"member","2faEnable":true,"2faSecret":"MAQFEDTPFAWXOHZ2","_id":"XSQMJK3JJoVhfNmd"}
